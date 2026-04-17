@@ -1,77 +1,66 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=3000&pause=1200&color=E6EDF3&center=true&vCenter=true&repeat=true&width=500&height=45&lines=hey%2C+i'm+nishant+%F0%9F%91%8B" alt="Typing SVG" />
+# Hi, I'm Nishant 👋
 
-<br/>
-
-`mobile app developer` · `building in public`
-
-<br/>
+**Mobile Developer** · **iOS & Flutter** · **Privacy-First AI**
 
 [![X](https://img.shields.io/badge/%40notnishant-000?style=flat&logo=x&logoColor=fff)](https://x.com/notnishant)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/not--nishant-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/not-nishant)&nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/website-000?style=flat&logo=safari&logoColor=fff)](#)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=notnishant&style=flat-square&color=333&label=profile+views" alt="Profile Views" />
-
 </div>
 
 <br/>
 
----
+### About
+
+I'm a mobile app developer based in Gurgaon, specialising in Flutter and transitioning deeply into native iOS development. 
+
+I care about what happens *on* the device. My work focuses on building privacy-centric applications that leverage local artificial intelligence and Apple’s Foundation Models without ever sending your data to the cloud. When it comes to design, I'm not a fan of clutter; I lean heavily into minimal, sleek aesthetics—drawing inspiration from Apple's system UI, Liquid Glass, and Material 3 Expressive elements.
 
 <br/>
 
-### about
-
-i'm a mobile app developer from gurgaon, india — building native iOS experiences with **Swift & SwiftUI** and cross-platform apps with **Flutter**.  
-
-currently exploring **on-device AI** and what small models can do without ever leaving your phone. i care about beautiful design, smooth animations, and shipping things that feel right.
-
-<br/>
-
-### what i'm building
+### What I'm Building
 
 <table>
 <tr>
-<td width="100" align="center">🎙️</td>
+<td width="50" align="center">🎙️</td>
 <td>
 
-**[Notie](https://github.com/notnishant/notie-privacy)** — *think out loud*
+**[Notie](https://github.com/notnishant/notie-privacy)** An AI-powered voice notes app that captures and refines your thoughts completely on-device. Built with Swift, Core ML, and a strict focus on user privacy.
+</td>
+</tr>
+<tr>
+<td width="50" align="center">🏋️‍♂️</td>
+<td>
 
-an AI-powered voice notes app that captures your thoughts and refines them.  
-built with Swift, SwiftUI, Core ML, and on-device AI.
-
+**B2B Gym Routing Concept** A management application in development that uses algorithmic routing to dynamically adjust member workouts and reduce equipment queues. 
 </td>
 </tr>
 </table>
 
 <br/>
 
-### stack
+### Under the Hood
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,js,ts,html,css,figma,git&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,java,ts,figma,git&theme=dark&perline=10" />
 
 </div>
 
 <br/>
 
-### currently
+### Currently
 
-```
-🔬  exploring on-device AI & small language models
-📱  shipping Notie — thinking out loud, captured by AI
-🏗️  building in public on X
-🌱  learning to let go of perfect and just ship
-```
+- 📱 Navigating App Store compliance and managing the production release for Notie.
+- 🧠 Deepening my iOS architecture knowledge (ARC, SwiftData, actors) on my M2 iPad Pro.
+- ⚙️ Grinding through DSA patterns (Sliding Window, Heaps) using Java for logic and Swift for native implementations.
+- 🚜 Stepping away from the screen to research agricultural land in Alwar for a future farmhouse build, or experimenting in the kitchen to perfect a creamy, rich Rajma recipe.
 
 <br/>
 
-### stats
+### Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=notnishant&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -87,27 +76,10 @@ built with Swift, SwiftUI, Core ML, and on-device AI.
 
 <br/>
 
-### quick bits
-
-- 🧠 &nbsp; i talk to xcode more than i talk to people  
-- 📐 &nbsp; the best interface is the one you don't notice  
-- ☕ &nbsp; powered by chai, not coffee  
-- 🇮🇳 &nbsp; made in india, designed for everyone  
-
-<br/>
-
 ---
 
 <div align="center">
 
-<br/>
-
-*"ship it, then fix it."*
-
-<br/>
-
-**he/him** · gurgaon 🇮🇳
-
-<br/>
+**Nishant Tanwar** · Gurgaon 🇮🇳
 
 </div>
