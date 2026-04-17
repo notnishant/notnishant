@@ -4,8 +4,8 @@
 
 **iOS Developer** · **Flutter Expertise** · **On-Device AI**
 
-[![X](https://img.shields.io/badge/%40notnishant-000?style=flat\&logo=x\&logoColor=fff)](https://x.com/notnishant)  
-[![LinkedIn](https://img.shields.io/badge/not--nishant-000?style=flat\&logo=linkedin\&logoColor=0A66C2)](https://linkedin.com/in/not-nishant)
+[![X](https://img.shields.io/badge/%40notnishant-000?style=flat\&logo=x\&logoColor=fff)](https://x.com/not_nishant)  
+[![LinkedIn](https://img.shields.io/badge/not--nishant-000?style=flat\&logo=linkedin\&logoColor=fff)](https://linkedin.com/in/not-nishant)
 
 </div>
 
@@ -25,7 +25,7 @@ Interested in exploring how far **small, on-device AI models** can go — withou
 **Notie**
 AI-powered voice notes app that captures and refines thoughts fully on-device.
 Built with Swift, Core ML, and a strict privacy-first approach.
-→ https://github.com/notnishant/notie-privacy
+→ https://apps.apple.com/us/app/notie-thinking-out-loud/id6758552238
 
 <br/>
 
