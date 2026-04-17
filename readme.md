@@ -4,8 +4,8 @@
 
 **iOS Developer** · **Flutter Expertise** · **On-Device AI**
 
-[![X](https://img.shields.io/badge/%40not_nishant-000?style=flat\&logo=x\&logoColor=fff)](https://x.com/not_nishant)  
-[![LinkedIn](https://img.shields.io/badge/not-nishant-000?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/not-nishant)
+[![X](https://img.shields.io/badge/@not_nishant-000?style=flat&logo=x&logoColor=fff)](https://x.com/not_nishant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-not--nishant-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/not-nishant)
 
 </div>
 
